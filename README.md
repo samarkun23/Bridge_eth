@@ -40,4 +40,4 @@ This project uses [Foundry](https://getfoundry.sh). See the [book](https://book.
 # Bridge_eth
 
 # When user deposits the 100 Shinu , the 100WShinu will be minted and sent to the user in the BSC chain. 
-![Bridge_eth](archi_images/bridge_eth.png)   
+![Bridge_eth](./archi_images/deposite100Shinu.png)
