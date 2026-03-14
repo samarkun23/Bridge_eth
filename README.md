@@ -44,5 +44,5 @@ This project uses [Foundry](https://getfoundry.sh). See the [book](https://book.
 ### When user deposits the 100 WShinu, the 100 WShinu will be burned and 100 Shinu will be sent to the user in the Ethereum chain.
 ![Bridge_eth](./archi_images/WShinu_deposite.png)
 
-#Better architecture
+# Better architecture
 ![Better_archi](./archi_images/better_archi.png)
