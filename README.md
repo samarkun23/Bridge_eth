@@ -39,5 +39,10 @@ contract ContractTest is Test {
 This project uses [Foundry](https://getfoundry.sh). See the [book](https://book.getfoundry.sh/getting-started/installation.html) for instructions on how to install and use Foundry.
 # Bridge_eth
 
-# When user deposits the 100 Shinu , the 100WShinu will be minted and sent to the user in the BSC chain. 
+### When user deposits the 100 Shinu , the 100WShinu will be minted and sent to the user in the BSC chain. 
 ![Bridge_eth](./archi_images/deposite100Shinu.png)
+### When user deposits the 100 WShinu, the 100 WShinu will be burned and 100 Shinu will be sent to the user in the Ethereum chain.
+![Bridge_eth](./archi_images/WShinu_deposite.png)
+
+#Better architecture
+![Better_archi](./archi_images/better_archi.png)
